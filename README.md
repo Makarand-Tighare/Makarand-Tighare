@@ -20,4 +20,4 @@ I'm an active contributor to open-source projects and constantly seeking opportu
 ## Let's Connect
 
 - 📫 Email: [makarand.tighare@gmail.com](mailto:makarand.tighare@gmail.com)
-- 💼 LinkedIn: [Your LinkedIn Profile URL]
+- 💼 LinkedIn: [[Your LinkedIn Profile URL](https://www.linkedin.com/in/makarand-tighare-589b63208/)https://www.linkedin.com/in/makarand-tighare-589b63208/]
