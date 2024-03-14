@@ -4,7 +4,7 @@ Passionate computer engineering student with a strong foundation in Python, Java
 
 I thrive in hackathon environments, where I can leverage my technical skills and creativity to develop innovative solutions. Some of my notable achievements include:
 
-- 🏆 Smart India Hackathon 2023 Winner: Engineered a groundbreaking solution for water distribution pipelines, earning a cash prize of ₹1,00,000.
+- 🏆 Smart India Hackathon 2023 Winner
 - 🥇 HACKENGERS Winner 2023: Won the LiveWire-hosted competition by creating a login page based on speech recognition using the tkinter library, securing a ₹40,000 prize.
 - 🏅 CodeMasters Winner: Secured first place at Enthusia by solving 9 out of 10 coding questions, earning a cash prize of ₹8,000.
 - 🌟 Zarothon Winner: Emerged victorious in the Zarothon hackathon, showcasing exceptional problem-solving and coding abilities.
