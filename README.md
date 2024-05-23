@@ -15,7 +15,7 @@ I'm an active contributor to open-source projects and constantly seeking opportu
 
 **Languages:** Python, Java, C, C++, Dart, JavaScript, SQL, R  
 **Developer Tools:** VS Code, Power BI, Cisco Packet Tracer, Android Studio, CodeBlocks, Google Colab  
-**Technologies/Frameworks:** Linux, GitHub, Flask, Git, Flutter, MERN  
+**Technologies/Frameworks:** Linux, GitHub, Flask, Git, Flutter 
 
 ## Let's Connect
 
