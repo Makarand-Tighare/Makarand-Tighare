@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Makarand Tighare</h1>
-<h3 align="center">Innovative Developer | AI & Cloud Enthusiast | Building Scalable Solutions"</h3>
+<h3 align="center">Innovative Developer | AI & Cloud Enthusiast | Building Scalable Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=makarand-tighare&label=Profile%20views&color=0e75b6&style=flat" alt="makarand-tighare" /> </p>
 
